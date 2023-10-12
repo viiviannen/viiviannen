@@ -23,8 +23,10 @@
       }
       
       * {
+        @font-face {
         font-family: "Raleway", sans-serif; 
         font-display: swap;
+        }
         box-sizing: border-box;
       }
       
@@ -125,8 +127,10 @@ div {
 html,body {
     background-color: #ffffff;
     color: black;
-    font-family: 'Open Sans', sans-serif;
-    font-display: swap;
+    @font-face {
+      font-family: 'Open Sans', sans-serif;
+      font-display: swap;
+    }
   }
 
 
