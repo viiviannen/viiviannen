@@ -21,7 +21,7 @@ input::-webkit-input-placeholder, textarea::-webkit-input-placeholder {
     font-size: 0.875em;
   }
   
-  input:focus::placeholder, textarea::focus:placeholder {
+  input:focus::placeholder, textarea:focus:placeholder {
     color: #bbb5af;
   }
   
@@ -68,7 +68,7 @@ input::-webkit-input-placeholder, textarea::-webkit-input-placeholder {
     font-size: 0.875em;
   }
   
-  input:hover:focus::-ms-placeholder, textarea:hover::focus:-ms-placeholder {
+  input:hover:focus::-ms-placeholder, textarea:hover:focus:-ms-placeholder {
     color: #cbc6c1;
   }
   
