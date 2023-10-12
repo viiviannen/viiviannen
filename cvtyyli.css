@@ -153,8 +153,7 @@ html,body {
       font-size: 40px;
       font-weight: lighter;
       text-align: left;
-     
-      
+    
   }
 
   .column {
@@ -187,15 +186,15 @@ html,body {
     .header h1 {
       font-size: 40px;
     }}
-    .content h2 {
-      font-size: 30px;
-    }
+  
 
   @media screen and (max-width: 800px) {
     .right {
       width: 90%;
     }
-   
+    .content h2 {
+      font-size: 30px;
+    }
   }
 
   @media (max-width: 700px) {
