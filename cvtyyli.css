@@ -11,6 +11,7 @@
         letter-spacing: 0.02cm;
     } */
       
+   
 
     h2 {
         vertical-align: center;
@@ -39,8 +40,14 @@
         height: 50px;
         padding: 1em;
         font-weight: bolder;
+        
       }
-      
+      .Viivi {
+        font-size: 18px;
+        letter-spacing: 0.05em;
+        font-weight: bolder;
+      }
+     
       .menu {
         display: flex;
         flex-direction: row;
