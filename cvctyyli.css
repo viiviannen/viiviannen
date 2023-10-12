@@ -21,7 +21,7 @@ input::-webkit-input-placeholder, textarea::-webkit-input-placeholder {
     font-size: 0.875em;
   }
   
-  input:focus::placeholder, textarea:focus:placeholder {
+  input:focus::placeholder, textarea:focus {
     color: #bbb5af;
   }
   
